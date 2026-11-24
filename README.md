@@ -1,113 +1,19 @@
-# Hi, I'm Luis.
+# Things I’ve been building.
 
-I turn ideas into things people can explore, use and share. My work spans family memories, music, team insight, learning and games.
+Family memories, music, team insight, learning and games. A few of the ideas I’ve been turning into things people can use.
 
-For my professional background and experience, visit [luisoreamuno.com](https://luisoreamuno.com). The project source code stays private; this page shares screenshots, prototypes and the tools behind them.
+[My background](https://luisoreamuno.com) · Source code stays private.
 
-## Famili
+## Products & playable experiments
 
-A private place for family stories, photographs and shared memories. Questions, albums, music and playful activities give different generations ways to contribute.
+| | |
+| --- | --- |
+| [![Famili](media/famili-concept.gif)](projects/famili.md)<br>**[Famili](projects/famili.md)**<br>A place for family stories, voices and the memories between them.<br><em>Concept film · example dialogue</em><br>[Explore project →](projects/famili.md) | [![Senseeing](media/senseeing-tour.gif)](projects/senseeing.md)<br>**[Senseeing](projects/senseeing.md)**<br>Turn what a team sees into shared priorities and a response people can follow.<br><em>Earlier website tour</em><br>[Explore project →](projects/senseeing.md) |
+| [![Circle8](media/circle8-brand.gif)](projects/circle8.md)<br>**[Circle8](projects/circle8.md)**<br>Songs mean more when you know who sent them, and why.<br><em>Brand animation · not an app recording</em><br>[Explore project →](projects/circle8.md) | [![Guevara Drive](media/guevara-world-transfer.gif)](projects/guevara-drive.md)<br>**[Guevara Drive](projects/guevara-drive.md)**<br>A personal experiment blending Che Guevara, graphic novels and gameplay.<br><em>Space exploration · prototype recording</em><br>[Explore project →](projects/guevara-drive.md) |
 
-**Built with:** HTML, CSS and JavaScript; Supabase for accounts and private media in the existing app.
+## Websites & learning
 
-**Approach:** Shaped around my own family's use, with new Today, Stories and Play ideas explored in a separate local prototype.
-
-![Famili prototype showing a family photograph from Luis’s own contribution](media/famili-today.png)
-
-*Famili 3.0 design prototype. Screenshots combine real family photographs with example content; this interface is separate from the existing app.*
-
-![A family story and its replies, with profile pictures](media/famili-story-replies.png)
-
-*Story and replies · prototype layout with family photographs and example content.*
-
-![The Famili Play page with Photo Pairs and Hot Potato](media/famili-play.png)
-
-*Play · local prototype.*
-
-![The My Stories view showing real photos](media/famili-stories.png)
-
-*Stories · prototype layout using family photographs.*
-
-![Fictional demo shows who answered a question](media/famili-question-responses-demo.png)
-
-*Question responses · fictional demo family and example activity.*
-
-
-## Guevara Drive
-
-A journey into game creation, exploring space travel, planetary encounters and movement set to music. This earlier slingshot prototype explores approaching a planet and using its gravity to build speed.
-
-**Built with:** JavaScript and HTML Canvas 2D, with custom flight controls and rendering.
-
-**Approach:** Developed as playable studies, iterating on steering, planetary flybys and the feeling of speed.
-
-![Animated guided slingshot flight around a planet](media/guevara-slingshot.gif)
-
-*Guided capture from the earlier slingshot prototype. The computer is flying; the game is still in development.*
-
-
-## Senseeing
-
-An exploration of how teams can bring different perspectives together, find gaps between assumptions and reality, and turn what people know into clearer decisions.
-
-**Built with:** Next.js (React), TypeScript and PostgreSQL with Prisma for the product; HTML, CSS and JavaScript for the public website.
-
-**Approach:** Explored through working prototypes that connect team contributions, shared priorities and visible follow-up.
-
-![Current public Senseeing website](media/senseeing-website.png)
-
-*Public Senseeing website.*
-
-
-## Circle8
-
-Share songs with friends in a private circle, add a message or voice introduction, and discover the music they share back. The project includes a website and apps for Android and iPhone.
-
-**Built with:** HTML, CSS and JavaScript, with Capacitor for Android and iPhone and Supabase for accounts and data.
-
-**Approach:** Developed from Ignacio's designs, sharing a web interface across the phone apps and adding device-specific features.
-
-![Circle8 website concept](media/circle8-website.png)
-
-![Circle8 app welcome design](media/circle8-app.png)
-
-*Website and app design captures. Android and iPhone builds submitted to the app stores.*
-
-
-## A different way to introduce myself
-
-An interactive portfolio that brings together my experience, the work I care about and how I approach new ideas.
-
-**Built with:** HTML, CSS and JavaScript, with custom animation and interaction.
-
-**Approach:** Refined through layout and motion studies into the Listen, Find and Build experience.
-
-![Current Luis Oreamuno personal website](media/luis-oreamuno-website.png)
-
-*Current public website. For my professional background and experience, visit [luisoreamuno.com](https://luisoreamuno.com).*
-
-
-## Fazore
-
-A website for work spanning AI learning, practical advice and building ideas into products.
-
-**Built with:** HTML, CSS and JavaScript, hosted on Vercel.
-
-**Approach:** Developed through copy and layout iterations to explain Fazore's advice, practical solutions and training in English and German.
-
-![Current Fazore website](media/fazore-website.png)
-
-*Current public website: [fazore.eu](https://fazore.eu).*
-
-
-## Sebastian Oreamuno
-
-A portfolio website for my son, an advertising student, to present his university work, campaign ideas and visual explorations.
-
-**Built with:** HTML, CSS and JavaScript, with PDF project presentations, hosted on Vercel.
-
-**Approach:** Organized his university work into filterable projects, keeping academic context and individual credits visible.
-
-![Current Sebastian Oreamuno advertising portfolio](media/sebastian-oreamuno-website.png)
-
-*Current public website: [sebastianoreamuno.com](https://sebastianoreamuno.com). Academic projects are presented as student work.*
+| | |
+| --- | --- |
+| [![Fazore](media/fazore-signal-prompt.gif)](projects/fazore.md)<br>**[Fazore](projects/fazore.md)**<br>Making AI useful in everyday work.<br><em>Signal learning prototype · fictional example</em><br>[Explore project →](projects/fazore.md) | [![Luis Oreamuno](media/personal/listen-find-build.gif)](projects/personal-website.md)<br>**[Luis Oreamuno](projects/personal-website.md)**<br>My website: the work I’ve done, what I’m building, and a bit about me.<br><em>Three live opening states</em><br>[Explore project →](projects/personal-website.md) |
+| [![Sebastian Oreamuno](media/sebastian/browse-projects.gif)](projects/sebastian-oreamuno.md)<br>**[Sebastian Oreamuno](projects/sebastian-oreamuno.md)**<br>A portfolio website I built for my son’s advertising coursework.<br><em>Three live project selections</em><br>[Explore project →](projects/sebastian-oreamuno.md) |  |
